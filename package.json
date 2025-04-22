@@ -1,6 +1,6 @@
 {
   "name": "rohit-formpilot-crud",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A publicly available NPM package named Crublibrary which allows users to interact with your CRUD API using one-liner methods.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",

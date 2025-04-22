@@ -1,0 +1,27 @@
+{
+  "name": "rohit-formpilot-crud",
+  "version": "1.0.0",
+  "description": "A publicly available NPM package named Crublibrary which allows users to interact with your CRUD API using one-liner methods.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Crublibrary",
+    "api",
+    "library"
+  ],
+  "author": "Rohit Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3"
+  }
+}

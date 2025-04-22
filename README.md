@@ -18,7 +18,7 @@ yarn add rohit-formpilot-crud
 
 ## 🔧 Configuration
 
-Crublibrary reads your API endpoint and key from environment variables. Create a `.env` file in your project root:
+To use Crublibrary, please register [here](https://crublibrary-dashboard-crud.vercel.app/) and generate your API_KEY and API_URL. Crublibrary retrieves your API endpoint and key from the designated environment variables. It is essential to create a `.env` file in your project's root directory.
 
 ```env
 CRUD_API_URL=https://your-api-url.com
